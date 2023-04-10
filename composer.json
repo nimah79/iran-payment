@@ -1,8 +1,8 @@
 {
-    "name": "dena-a/iran-payment",
+    "name": "nimah79/iran-payment",
     "description": "a Laravel package to handle Internet Payment Gateways for Iran Banking System",
     "type": "library",
-    "homepage": "https://github.com/dena-a/iran-payment",
+    "homepage": "https://github.com/nimah79/iran-payment",
     "license": "MIT",
     "keywords": [
         "laravel",
